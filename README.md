@@ -1,3 +1,2 @@
 ## Hi there 👋
- 
-I am Dishika 
+nothing much really
