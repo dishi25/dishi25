@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-## Hi there 👋
+## <span style="color:#ff69b4;">Hi there 👋</span>
 
-- Hi, I'm Dishika.  
-  Currently an Undergrad Student at VIT vellore pursuing a degree in Electronics And Communications Engineering  
+- <span style="color:#ff69b4;">Hi, I'm Dishika.</span>  
+- <span style="color:#ff69b4;">Currently an Undergrad Student at VIT vellore pursuing a degree in Electronics And Communications Engineering</span>  
 
-## What do I do?
+## <span style="color:#ff69b4;">What do I do?</span>
 
-- Mostly learn a variety of topics and try to build something useful  
+- <span style="color:#ff69b4;">Mostly learn a variety of topics and try to build something useful</span>  
 
 </div>
