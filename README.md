@@ -1,4 +1,6 @@
-![bg](https://capsule-render.vercel.app/api?type=rect&color=ffe4ec&height=800&section=header&text=%20&fontSize=0)
+<div style="background-color:#ffe4ec; padding:20px; border-radius:15px; color:#b03060;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 ## Hi there 👋
 
@@ -8,3 +10,5 @@
 ## What do I do?
 
 - Mostly learn a variety of topics and try to build something useful  
+
+</div>
