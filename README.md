@@ -7,4 +7,5 @@
 
 ## What do I do?
 
-- Mostly learn a variety of topics and try to build something useful  ✿
+- Mostly learn a variety of topics and try to build something useful
+- i try to do a little of everything and whole lot of something  ✿
