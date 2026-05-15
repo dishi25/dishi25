@@ -27,6 +27,13 @@
 
 <img src="https://streak-stats.demolab.com?user=dishi25&theme=default&background=FFE4EC&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=8A5A7B&dates=8A5A7B&currStreakNum=FF69B4&sideNums=FF69B4&hide_border=true&border_radius=18" height="170"/>
 
+<br><br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dishi25&bg_color=ffe4ec&color=8a5a7b&line=ff69b4&point=ff69b4&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 </div>
 
