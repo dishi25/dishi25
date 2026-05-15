@@ -9,3 +9,6 @@
 
 - Mostly learn a variety of topics and try to build something useful
 - i try to do a little of everything and whole lot of something  ✿
+
+## What did i do?
+- check my pinned repos to know about my projects
